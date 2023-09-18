@@ -30,3 +30,4 @@ I'm Payrav. Currently i am living and studying in Moscow, Russia.
 ## Languages:
 - Russian C1
 - English B2
+- ![Visitors](https://api.visitorbadge.io/api/visitors?path=PayravKahorov&label=Visitors&countColor=%23263759&style=flat&labelStyle=upper)
